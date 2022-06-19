@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.3",
+    "oauth": "^0.9.15",
+    "query-string": "^7.1.1"
+  },
+  "devDependencies": {}
+}
